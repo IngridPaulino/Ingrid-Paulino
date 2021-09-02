@@ -1,9 +1,14 @@
 ### Oiii! Eu sou a Ingrid Paulino 
  <div>
+  <span>
   <a href="https://github.com/Ingrid-Paulino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ingrid-Paulino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   </span>
+   <span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-Paulino&layout=compact&langs_count=16&theme=dracula"/>
+   </span>
 </div>
+ 
 <div style="display: inline_block">
   <img align="center" alt="Ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ingrid-Jp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-plain.svg">
