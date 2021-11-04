@@ -1,30 +1,55 @@
-### Oiii! Eu sou a Ingrid Paulino 
- <div>
-  <span>
-  <a href="https://github.com/Ingrid-Paulino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ingrid-Paulino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   </span>
-   <span>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-Paulino&layout=compact&langs_count=16&theme=dracula"/>
-   </span>
-</div>
+<a href="https://github.com/Ingrid-Paulino" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/ingrid-paulino/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+<a href="https://www.instagram.com/euingridpaulino/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a>
+
+<br />
+<br />
+
+Olá, me chamo **Ingrid Paulino**, sou de Belo Horizonte, Minas Gerais, Brasil. Atualmente estou estudando **Desenvolvimento de Software** na <a href="https://github.com/betrybe">Trybe<a/>. 
+Cai de paraquedas no mundo da programação e me encontrei. Sou aluna do projeto programadores do amanhã e estou me capacitando cada dia mais afim de me transformar em Desenvolvedora Full Stack.
+
+<br>
+
+**Meus interesses pessoais:**
+- 👨🏽‍💻 Estou estudando front-end no momento;
+- 🌱 Estou aprendendo **react**;
+- 🤔 Meus hobbies são maratonar uma boa serie, dançar e sair para me divertir;
+- 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;
+- 📫 Por favor, envie um email para contatoingridpaulino@gmail.com para me encontrar.
+
+<br>
+
+ **Linguagens e ferramentas:** 
  
-<div style="display: inline_block">
-  <img align="center" alt="Ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ingrid-Jp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-plain.svg">
-  <img align="center" alt="Ingrid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ingrid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Ingrid-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
-        
-   ##
-        
-  <div>
-  <a href = "mailto: contatoingridpaulino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ingrid-paulino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UC76137i61lXVqXp2bd-SNuA" target="_blank">    <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCpyhL9OCkSvv-GLyGIK12mQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-        <a href="https://instagram.com/euingridpaulino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://i.ibb.co/3sSDC6P/jest.png" alt="jest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+</p>
+
+**Stats:**
+<div>
+    <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ingrid-Paulino&count_private=true&show_icons=true&theme=radical" alt="Ingrid-Paulino" />
+</span>
+<span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-Paulino&layout=compact&theme=radical" alt="Ingrid-Paulino" />
+</span>
 </div>
 
 
