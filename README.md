@@ -17,7 +17,7 @@ Cai de paraquedas no mundo da programação e me encontrei. Sou aluna do projeto
 <br>
 
 **Meus interesses pessoais:**
-- 👨🏽‍💻 Estou estudando front-end no momento;
+- 👨🏽‍💻 Buscando sempre evoluir na área de desenvolvimento;
 - 🌱 Estou aprendendo **react**;
 - 🤔 Meus hobbies são maratonar uma boa serie, dançar e sair para me divertir;
 - 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;
@@ -36,7 +36,21 @@ Cai de paraquedas no mundo da programação e me encontrei. Sou aluna do projeto
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p>
-
+  
+   <img align="center" alt="ewe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  
+  <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  
+    <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+  
+  <img align="center" alt="ewe-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+  
+  <img align="center" alt="ewe-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+  
+  <img align="center" alt="ewe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  
+   <img align="center" alt="ewe-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
