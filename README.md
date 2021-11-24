@@ -47,7 +47,6 @@ Cai de paraquedas no mundo da programação e me encontrei. Sou aluna do projeto
    <img align="center" alt="ewe-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </p>
   
-  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
@@ -56,10 +55,10 @@ Cai de paraquedas no mundo da programação e me encontrei. Sou aluna do projeto
 **Stats:**
 <div>
     <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ingrid-Paulino&count_private=true&show_icons=true&theme=radical" alt="Ingrid-Paulino" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ingrid-Paulino&count_private=true&show_icons=true&theme=radical" alt="Ingrid-Paulino" />
 </span>
 <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-Paulino&layout=compact&theme=radical" alt="Ingrid-Paulino" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-Paulino&layout=compact&theme=radical" alt="Ingrid-Paulino" />
 </span>
 </div>
 
