@@ -44,7 +44,6 @@ Cai de paraquedas no mundo da programação e me encontrei. Sou aluna do projeto
     <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
   <img align="center" alt="ewe-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="ewe-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img align="center" alt="ewe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="ewe-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </p>
   
