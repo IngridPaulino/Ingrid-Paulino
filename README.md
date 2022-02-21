@@ -40,7 +40,7 @@ Cai de paraquedas no mundo da programação e me encontrei. Sou aluna do projeto
    
    <p align="left">
      <img align="center" alt="ewe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png">
     <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
   <img align="center" alt="ewe-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="ewe-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
