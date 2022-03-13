@@ -12,13 +12,13 @@
 <br />
 
 Olá, me chamo **Ingrid Paulino**, sou de Belo Horizonte, Minas Gerais, Brasil. Atualmente estou estudando **Desenvolvimento de Software** na <a href="https://github.com/betrybe">Trybe<a/>. 
-Cai de paraquedas no mundo da programação e me encontrei. Sou aluna do projeto programadores do amanhã e estou me capacitando cada dia mais afim de me transformar em Desenvolvedora Full Stack.
+Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna do projeto programadores do amanhã e estou me capacitando cada dia mais afim de me transformar em Desenvolvedora Full Stack.
 
 <br>
 
 **Meus interesses pessoais:**
 - 👨🏽‍💻 Buscando sempre evoluir na área de desenvolvimento;
-- 🌱 Estou aprendendo **react**;
+- 🌱 Estou aprendendo **back-end**;
 - 🤔 Meus hobbies são maratonar uma boa serie, dançar e sair para me divertir;
 - 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;
 - 📫 Por favor, envie um email para contatoingridpaulino@gmail.com para me encontrar.
@@ -26,38 +26,89 @@ Cai de paraquedas no mundo da programação e me encontrei. Sou aluna do projeto
 <br>
 
  **Linguagens e ferramentas:** 
- 
-  
- <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img
-    src="https://i.ibb.co/3sSDC6P/jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </p>
-   
-   <p align="left">
-     <img align="center" alt="ewe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png">
-    <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
-  <img align="center" alt="ewe-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-  <img align="center" alt="ewe-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-   <img align="center" alt="ewe-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  </p>
-  <p>
-     <img align="center" alt="ewe-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="ewe-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="ewe-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  </p>
-  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</p>
+  <table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>ReactJS</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+      </td>
+       <td width="25%" align="center">
+        <span><strong>Jest</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Docker</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MySQL</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Express</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Bootstrap</strong></span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Slack</strong></span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Linux</strong></span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>github</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Bash</strong></span><br><br><br>
+        <img height="64px" src="https://camo.githubusercontent.com/d7e69f4e93357ab37b1044d862b1b94ea6c6a37288c6db814c477344b06ce262/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f32782f636f6e736f6c652e706e67">
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
 
 **Stats:**
 <div>
