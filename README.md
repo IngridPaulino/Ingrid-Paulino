@@ -19,7 +19,6 @@ Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna
 **Meus interesses pessoais:**
 - 👨🏽‍💻 Buscando sempre evoluir na área de desenvolvimento;
 - 🌱 Estou aprendendo **back-end**;
-- 🤔 Meus hobbies são maratonar uma boa serie, dançar e sair para me divertir;
 - 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;
 - 📫 Por favor, envie um email para contatoingridpaulino@gmail.com para me encontrar.
 
