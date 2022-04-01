@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, me chamo **Ingrid Paulino**, sou de Belo Horizonte, Minas Gerais, Brasil. Atualmente estou estudando **Desenvolvimento de Software** na <a href="https://github.com/betrybe">Trybe<a/>. 
+Olá, me chamo **Ingrid Paulino**, tenho 19 anos e sou de Belo Horizonte, Minas Gerais, Brasil. Atualmente estou estudando **Desenvolvimento de Software** na <a href="https://github.com/betrybe">Trybe<a/>. 
 Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna do projeto programadores do amanhã e estou me capacitando cada dia mais afim de me transformar em Desenvolvedora Full Stack.
 
 <br>
@@ -37,7 +37,7 @@ Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁(ES6)</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
@@ -45,10 +45,41 @@ Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
+      <td width="25%" align="center">
+        <span><strong>Redux</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+    </tr>
+      <tr valign="top">
        <td width="25%" align="center">
         <span><strong>Jest</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
+      </td>
+       <td width="25%" align="center">
+        <span><strong>Mocha</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mocha.svg">
+      </td>
+       <td width="25%" align="center">
+        <span><strong>Chai</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/chai.svg">
+      </td>
+     <td width="25%" align="center">
+        <span><strong>MySQL</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+       <td width="25%" align="center">
+        <span><strong>Sequelize</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sequelize.svg">
+       </td>
+         <td width="25%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
       </td>
     </tr>
     <tr valign="top">
@@ -56,11 +87,6 @@ Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna
         <span><strong>Docker</strong>
         </span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MySQL</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
         <span>NodeJS</span><br><br><br>
@@ -74,12 +100,12 @@ Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna
         <span>Express</span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
       </td>
+      </tr>
+     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Bootstrap</strong></span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
