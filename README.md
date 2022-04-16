@@ -21,7 +21,7 @@ Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna
 - 🌱 Estou aprendendo **back-end**;
 - 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;
 - 📫 Por favor, envie um email para contatoingridpaulino@gmail.com para me encontrar.
-- CURÍCULO: <a href="https://www.figma.com/file/1bzOErJiGHdjOFbteMC1B0/Untitled?node-id=0%3A1">Currículo<a/>
+- CURRÍCULO: <a href="https://www.figma.com/file/1bzOErJiGHdjOFbteMC1B0/Untitled?node-id=0%3A1">Currículo<a/>
 
 <br>
 
