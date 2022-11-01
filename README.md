@@ -101,6 +101,10 @@ Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna
         <span>Express</span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
       </td>
+      <td width="25%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+      </td>
       </tr>
      <tr valign="top">
       <td width="25%" align="center">
